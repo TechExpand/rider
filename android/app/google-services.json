@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "857799891310",
+    "firebase_url": "https://shamrock-d19cf-default-rtdb.firebaseio.com",
+    "project_id": "shamrock-d19cf",
+    "storage_bucket": "shamrock-d19cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857799891310:android:bc33cdd989b17bf4eb497f",
+        "android_client_info": {
+          "package_name": "com.example.my_cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857799891310-7s496tttvk976a6mfad03k1t256tkv4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK99s7C_FxciM1SnJurqzekp8rMPsQSpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857799891310-7s496tttvk976a6mfad03k1t256tkv4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857799891310:android:85c0b8c70bbef55deb497f",
+        "android_client_info": {
+          "package_name": "com.shamrock.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857799891310-4ekl30dt93caui5noc4t14link42qj9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamrock.driver",
+            "certificate_hash": "4ef738ea4fd8bebdf6dccf1ba34dbb038047c8e3"
+          }
+        },
+        {
+          "client_id": "857799891310-g8mjajfpubd8vjd7eti13g1g6keq5b7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamrock.driver",
+            "certificate_hash": "e05b108261e8d8038f2b3f0212f26525438a1181"
+          }
+        },
+        {
+          "client_id": "857799891310-te9mq62almq3gdi7gpcp5tk98qkabuca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamrock.driver",
+            "certificate_hash": "7eeb92abab7ea12756c7ff7d4c91b17137e2b61c"
+          }
+        },
+        {
+          "client_id": "857799891310-7s496tttvk976a6mfad03k1t256tkv4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK99s7C_FxciM1SnJurqzekp8rMPsQSpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857799891310-7s496tttvk976a6mfad03k1t256tkv4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857799891310:android:019a82e1fa513e7eeb497f",
+        "android_client_info": {
+          "package_name": "com.shamrock.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857799891310-7cg3jtpp6v7sbovpbp6gi1vhm8a8983b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamrock.riderapp",
+            "certificate_hash": "65bf43e903c369b3cf4bd8287f9b0fdbb3137e0d"
+          }
+        },
+        {
+          "client_id": "857799891310-mgoc5mdebmklvk6ckcbepfpdd0d415g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamrock.riderapp",
+            "certificate_hash": "da09f9f1c80f8de45333bd012dc4c8b358e1a5e0"
+          }
+        },
+        {
+          "client_id": "857799891310-o2s61t1doct0jsnafpchgmekqioqegj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamrock.riderapp",
+            "certificate_hash": "7eeb92abab7ea12756c7ff7d4c91b17137e2b61c"
+          }
+        },
+        {
+          "client_id": "857799891310-7s496tttvk976a6mfad03k1t256tkv4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK99s7C_FxciM1SnJurqzekp8rMPsQSpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857799891310-7s496tttvk976a6mfad03k1t256tkv4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
